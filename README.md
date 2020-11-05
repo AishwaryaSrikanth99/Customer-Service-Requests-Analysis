@@ -15,7 +15,7 @@ Performed a service request data analysis of New York City 311 calls. Focussed o
   
   
 Imported a 311 NYC service request.  
-Converted the columns ‘Created Date’ and Closed Date’ to datetime datatype and created a new column ‘Request_Closing_Time’ as the time elapsed between request creation and request closing. (Hint: Explore the package/module datetime)  
+Converted the columns ‘Created Date’ and Closed Date’ to datetime datatype and created a new column ‘Request_Closing_Time’ as the time elapsed between request creation and request closing.  
 Provided major insights/patterns in a visual format (graphs or tables);  4 major conclusions derived after generic data mining.  
 Ordered the complaint types based on the average ‘Request_Closing_Time’, grouping them for different locations.  
    
