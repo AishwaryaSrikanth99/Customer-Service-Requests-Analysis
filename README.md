@@ -18,8 +18,8 @@ Imported a 311 NYC service request.
 Converted the columns ‘Created Date’ and Closed Date’ to datetime datatype and created a new column ‘Request_Closing_Time’ as the time elapsed between request creation and request closing. (Hint: Explore the package/module datetime)  
 Provided major insights/patterns in a visual format (graphs or tables);  4 major conclusions derived after generic data mining.  
 Ordered the complaint types based on the average ‘Request_Closing_Time’, grouping them for different locations.  
-Performed a statistical test for the following:  
-  
+   
+Performed a statistical test for the following:    
   
 Whether the average response time across complaint types is similar or not (overall)  
 Are the type of complaint or service requested and location related?  
